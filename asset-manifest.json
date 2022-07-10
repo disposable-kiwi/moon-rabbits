@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/moon-rabbits/static/css/main.31d6cfe0.css",
+    "main.css": "/moon-rabbits/static/css/main.0db50167.css",
     "main.js": "/moon-rabbits/static/js/main.3cd3c5f0.js",
     "static/js/787.738b9c4e.chunk.js": "/moon-rabbits/static/js/787.738b9c4e.chunk.js",
     "index.html": "/moon-rabbits/index.html",
+    "main.0db50167.css.map": "/moon-rabbits/static/css/main.0db50167.css.map",
     "main.3cd3c5f0.js.map": "/moon-rabbits/static/js/main.3cd3c5f0.js.map",
     "787.738b9c4e.chunk.js.map": "/moon-rabbits/static/js/787.738b9c4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
+    "static/css/main.0db50167.css",
     "static/js/main.3cd3c5f0.js"
   ]
 }
